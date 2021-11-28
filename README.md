@@ -1,10 +1,10 @@
 # Usage
 
-## Create all necessary plots, that have **any kind of markings (lockdown, ...)**:
+## Create all plots, that have **any kind of markings (lockdown, ...)**:
 
 > python3 plots_marked.py
 
-## Create all necessary plots, that have **no markings**:
+## Create all plots, that have **no markings**:
 
 > python3 plots_unmarked.py
 
